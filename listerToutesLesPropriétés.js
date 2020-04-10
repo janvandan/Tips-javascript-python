@@ -1,3 +1,5 @@
+// source : https://developer.mozilla.org/fr/docs/Web/JavaScript/Guide/Utiliser_les_objets
+
 // Parcourir les propriétés d'un objet
 
 function listerToutesLesPropriétés(o){
